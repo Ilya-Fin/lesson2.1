@@ -11,7 +11,7 @@ namespace Lesson3._2
             for (int i = 0; i < matrix.GetLength(0); i++)
             {
 
-                Console.Write("Введите номер телефона, а затем номер или e-mail ");
+                Console.Write("Введите имя пользователя, а затем номер или e-mail ");
                 for (int j = 0; j < matrix.GetLength(1); j++)
                 {
 
